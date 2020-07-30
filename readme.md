@@ -1,1 +1,1 @@
-add some simbols
+new some symbols in readme.md
